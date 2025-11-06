@@ -75,7 +75,7 @@ footer {
 }
 
 .hero{
-    background: url('kasane.jpg') ;
+    background: url('https://th.bing.com/th/id/R.aaa70f3865c34dace4a67d5ed6ccdc62?rik=Zf3yaxYk7b4ywA&riu=http%3a%2f%2fwww.reportingtheworld.org%2fwp-content%2fuploads%2f2022%2f06%2fWhat-Is-Waste-Managementa.jpg&ehk=Z1uDi%2fHsX1yequC8eHieiD4vZSdbv99Upc86BOI%2f2lU%3d&risl=&pid=ImgRaw&r=0') ;
     background-size: cover;
     background-position: center;
     padding: 6rem 0;
@@ -124,4 +124,5 @@ footer {
   .header-nav a:hover{
     text-decoration: underline;
     color: orange;
+
   }
